@@ -2,6 +2,8 @@
 A list of the slides/ materials that I use in my university tutorials
 
 ## Courses that I have taught as a TA
+- Biomedical engineering (2018)
+- Software engineering (2018)
 - Data structures and algorithms (2019/2020/2021)
 - Logic Design (2020/2021)
 - Introduction to programming (2019/2021)
